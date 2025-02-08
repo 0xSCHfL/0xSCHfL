@@ -18,11 +18,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j0oyboy&" alt="j0oyboy" /></p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/j0oyboy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="j0oyboy" /></a></p><br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/j0oyboy/j0oyboy/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/j0oyboy/j0oyboy/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/j0oyboy/j0oyboy/output/github-snake.svg" />
 </picture>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/j0oyboy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="j0oyboy" /></a></p><br><br>
