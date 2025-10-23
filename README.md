@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is 0xSCHfL, from Morocco.</h2>
+<h2 align="left">Hi 👋! My name is 0xSCHfL</h2>
 
 ###
 
