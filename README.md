@@ -51,12 +51,6 @@
   <a href="https://discord.gg/agvnnmD4nq" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="www.linkedin.com/in/Unknown" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://linktr.ee/Unknown" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
 </div>
 
 ###
@@ -72,6 +66,5 @@
 </picture>
 
 <h3 align="left">Support Me :</h3>
-<p><a href="https://www.buymeacoffee.com/j0oyboy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="j0oyboy" /></a></p><br><br>
 
 ###
